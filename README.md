@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=_778899&height=300&section=header&text=Junyoung&nbsp;Lee&fontSize=45&fontAlign=72&fontAlignY=40&animation=fadeIn&fontColor=E7E6D2)
-# Pratiable - Back-End Developer
+# Junyoung Lee - Back-End Developer
 배움을 즐기고 지식의 나눔을 지향하는 백엔드 개발자입니다.
 
 
