@@ -10,7 +10,9 @@
 - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
 
-# Github Stat
+# Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratiable&show_icons=true&theme=dark&hide_border=true&bg_color=0d1007)
 <br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=ambitiouskyle)](https://solved.ac/ambitiouskyle)
 [![](https://img.shields.io/badge/-Tech%20Blog-0d1007)](https://velog.io/@ambitiouskyle)
