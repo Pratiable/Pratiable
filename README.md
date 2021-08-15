@@ -14,7 +14,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratiable&show_icons=true&theme=dark&hide_border=true&bg_color=0d1007)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiable&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ambitiouskyle)](https://solved.ac/ambitiouskyle)
 <br>
