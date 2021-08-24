@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=_778899&height=300&section=header&text=Junyoung&nbsp;Lee&fontSize=45&fontAlign=72&fontAlignY=40&animation=fadeIn&fontColor=E7E6D2)
 <h3 align="center"> 안녕하세요 🙂 </h3>
 <p align="center">배움을 즐기고 지식의 나눔을 지향하는 백엔드 개발자 이준영입니다</p>
-<p align="center">효율적이고 원활한 시스템 구현에 관심이 많습니다🌱</p>
+<p align="center">🌱효율적이고 원활한 시스템 구현에 관심이 많습니다🌱</p>
 <p align="center">🇰🇷</p>
 <br>
 <br>
