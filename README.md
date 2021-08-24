@@ -21,9 +21,8 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratiable&show_icons=true&theme=dark&hide_border=true&bg_color=0d1007)
 <br> -->
 <p align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiable&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ambitiouskyle)](https://solved.ac/ambitiouskyle)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiable&layout=compact"/><br>
+  <a href="https://solved.ac/ambitiouskyle"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ambitiouskyle"/></a>
 </p>
 <br>
 
