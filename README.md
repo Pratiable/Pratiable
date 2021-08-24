@@ -27,7 +27,5 @@
 <br>
 
 <p align="center">
-  
-  [![](https://img.shields.io/badge/-Tech%20Blog-0d1007)](https://velog.io/@ambitiouskyle)
-  
+  <a href="https://velog.io/@ambitiouskyle"><img src="https://img.shields.io/badge/-Tech%20Blog-0d1007"/></a>
 </p>
