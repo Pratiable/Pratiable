@@ -39,5 +39,5 @@
 <br>
 
 <p align="center">
-  <a href="https://velog.io/@ambitiouskyle"><img src="https://img.shields.io/badge/-Tech%20Blog-0d1007"/></a>
+  <a href="https://pratiable.github.io"><img src="https://img.shields.io/badge/-Tech%20Blog-0d1007"/></a>
 </p>
