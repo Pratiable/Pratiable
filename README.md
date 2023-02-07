@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiable&layout=compact"/><br>
   <a href="https://solved.ac/ambitiouskyle"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ambitiouskyle"/></a><br>
-  <img src="http://mazandi.herokuapp.com/api?handle=ambitiouskyle&theme=dark"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=ambitiouskyle&theme=cold"/>
 </p>
 <br>
 
