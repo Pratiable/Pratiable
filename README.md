@@ -20,7 +20,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <br>
